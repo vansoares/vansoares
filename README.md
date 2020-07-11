@@ -12,7 +12,7 @@ About me:
 
 :sparkles: I'm a Machine Learning newbie;
 
-:sparkles: I write articles on [Medium](https://medium.com/@vanessa.ssoares)
+:sparkles: I write articles on [Medium](https://medium.com/@vanessa.ssoares) about things that i'm learning; 
 
 :sparkles: Addicted to coffee :coffee:;
 
