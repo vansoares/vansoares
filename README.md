@@ -6,7 +6,7 @@
 About me: 
 :sparkles: I'm a computer scientist :computer:;
 
-:sparkles: I work at Intelie as a FullStack Developer :relaxed:;
+:sparkles: I work at OLX Brasil as a Software Engineer :relaxed:;
 
 :sparkles: I :purple_heart: Python; 
 
