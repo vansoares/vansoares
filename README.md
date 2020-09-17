@@ -6,8 +6,6 @@
 About me: 
 :sparkles: I'm a computer scientist :computer:;
 
-:sparkles: I work at OLX Brasil as a Software Engineer :relaxed:;
-
 :sparkles: I :purple_heart: Python; 
 
 :sparkles: I'm a Machine Learning newbie;
