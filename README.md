@@ -4,6 +4,7 @@
 ### Hi there 👋, I'm Vanessa. 
 
 About me: 
+
 :sparkles: I'm a computer scientist :computer:;
 
 :sparkles: I'm a Machine Learning newbie;
