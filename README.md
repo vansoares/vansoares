@@ -6,8 +6,6 @@
 About me: 
 :sparkles: I'm a computer scientist :computer:;
 
-:sparkles: I :purple_heart: Python; 
-
 :sparkles: I'm a Machine Learning newbie;
 
 :sparkles: I write articles on [Medium](https://medium.com/@vanessa.ssoares) about things that i'm learning; 
