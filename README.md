@@ -12,7 +12,8 @@ vanessa = {
         'mae da Cocada', 
         'viciada em cafe', 
         'assistia friends todo dia', 
-        'aprendendo italiano']
+        'aprendendo italiano'
+    ]
 }
 
 ```
