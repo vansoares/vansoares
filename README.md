@@ -11,7 +11,7 @@ vanessa = {
     'curiosidades': [
         'mae da Cocada', 
         'viciada em cafe', 
-        'assistia friends todo dia', 
+        'assistia friends (quase) todo dia', 
         'aprendendo italiano'
     ]
 }
