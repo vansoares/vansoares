@@ -9,6 +9,7 @@ vanessa = {
     'linguagens': ['python', 'javascript', 'go'],
     'esportes': ['natacao', 'muay thai'],
     'curiosidades': [
+        'machine learning',
         'mae da Cocada', 
         'viciada em cafe', 
         'assistia friends (quase) todo dia', 
