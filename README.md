@@ -4,7 +4,6 @@
 
 
 ```python
-# um pouco sobre vanessa
 vanessa = {
     'linguagens': ['python', 'javascript', 'go'],
     'esportes': ['natacao', 'muay thai'],
