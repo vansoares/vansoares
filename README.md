@@ -11,7 +11,6 @@ vanessa = {
         'machine learning',
         'mae da Cocada', 
         'viciada em cafe', 
-        'assistia friends (quase) todo dia', 
         'aprendendo italiano'
     ]
 }
