@@ -9,7 +9,7 @@ vanessa = {
     'linguagens': ['go', 'python', 'javascript'],
     'esportes': ['natacao', 'muay thai'],
     'curiosidades': [
-        'mae da Cocada',
+        'mae da Cocada e da Amora',
         'mestranda em computação no CEFET',
         'viciada em cafe', 
         'aprendendo italiano'
