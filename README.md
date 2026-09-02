@@ -21,4 +21,4 @@ vanessa = {
 
 **[Quack](https://quack-app-lovat.vercel.app/)** — app de produtividade e autodesenvolvimento, com pomodoro, gestão de tarefas, metas, PDI, tracking de leitura/filmes e uma área para devs (code review, PRs, dívida técnica e "Patoterapia").
 
-**[KitchenHub](https://kitchen-hub-mu.vercel.app/signin)** — gerenciador de despensa, "sua despensa, de qualquer lugar", com login via Google para acompanhar os itens da cozinha remotamente.
+**[KitchenHub](https://kitchen-hub-mu.vercel.app/signin)** — gerenciador de despensa, "sua despensa, de qualquer lugar"
